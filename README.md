@@ -1,1 +1,1 @@
-# MetaUE
+ This is the code of the implementation of the MetaUE described in "Zhenwei Zhang, Haorui Yan, Yuping, Duan" in CVPR2023. If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
