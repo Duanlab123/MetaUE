@@ -4,7 +4,7 @@ Testing:
 2.Download the checkpoint from Dropbox:
 BaiduCloud:
 【1】.Pretrained model:
-https://pan.baidu.com/s/1TCaYmj4CkkTH1cWl02XWvg 
+https://pan.baidu.com/s/1UUtA629fsoSdVmWE9ZFB-w 
 6666
 【2】.Fine-tuned on EUVP:
 https://pan.baidu.com/s/1ZDGmUQiWAGlceVImUR_i9Q 
