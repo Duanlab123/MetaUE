@@ -1,4 +1,4 @@
- This is the code of the implementation of the MetaUE described in "Zhenwei Zhang, Haorui Yan, Yuping, Duan" in CVPR2023. If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
+ This is the code of the implementation of the MetaUE described in "Zhenwei Zhang, Haorui Yan, Yuping, Duan" in TIP. If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
 Testing:
 1.Clone the repo
 2.Download the checkpoint from Dropbox:
@@ -16,9 +16,9 @@ https://pan.baidu.com/s/1c_kpWVgjloW5F3aK3jvBWA
 4. Find the result in "result"
 
 If you have any questions, please contact us (zzw7548@163.com)
-@article{-,
+ 
   title={MetaUE: Model-based Meta-learning for Underwater Image Enhancement},
   author={Zhenwei Zhang, Haorui Yan, Yuping, Duan},
-  journal={CVPR2023},
+  journal={submit to tip},
   year={2023}
-}
+ 
