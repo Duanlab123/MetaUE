@@ -1,4 +1,4 @@
- This is the code of the implementation of the MetaUE described in "Zhenwei Zhang, Haorui Yan, Yuping, Duan" in TIP. If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
+ This is the code of the implementation of the MetaUE described in "Zhenwei Zhang, Haorui Yan, Yuping, Duan"  submited to TIP. If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
 Testing:
 1.Clone the repo
 2.Download the checkpoint from Dropbox:
